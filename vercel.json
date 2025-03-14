@@ -3,14 +3,14 @@
     "name": "Harshith-Kasthuri-portfolio",
     "builds": [
       {
-        "src": "app.js",
+        "src": "views/app.js",
         "use": "@vercel/node"
       }
     ],
     "routes": [
       {
         "src": "/(.*)",
-        "dest": "app.js"
+        "dest": "/views/app.js"
       }
     ]
   }
