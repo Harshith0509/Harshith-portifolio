@@ -9,6 +9,7 @@ Portfolio Showcase: Displaying my projects, skills, and professional experiences
 Blog Section: A platform to share insights, thoughts, and updates with visitors.
 Contact Form: A form that allows visitors to send messages directly to my email.
 Responsive Design: Ensures an optimal viewing experience on various devices (desktops, tablets, and mobile phones).
+
 Technologies Used
 Frontend: HTML, CSS, JavaScript
 Backend: Node.js
