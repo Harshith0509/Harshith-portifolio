@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" fill="none">
+  <!-- Gradient definitions -->
+  <defs>
+    <linearGradient id="goldGradient" x1="3.26667" y1="1" x2="37.8" y2="39.1334" gradientUnits="userSpaceOnUse">
+      <stop offset="0.259336" stop-color="#FFDB6E"/>
+      <stop offset="1" stop-color="#FFBC5E"/>
+    </linearGradient>
+    <linearGradient id="strokeGradient" x1="3.26667" y1="1" x2="37.8" y2="39.1334" gradientUnits="userSpaceOnUse">
+      <stop offset="0.259336" stop-color="#FFDB6E"/>
+      <stop offset="1" stop-color="#FFBC5E"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background shape with opacity -->
+  <path opacity="0.15" fill-rule="evenodd" clip-rule="evenodd" d="M43 54l1 3-1 1H17l-1-1 1-3h26zM40 54H20c3.5-3.5 3-6 3-6h14s-.5 2.5 3 6zM32 42a2 2 0 1 1-4 0 2 2 0 0 1 4 0zM59 36v8a4 4 0 0 1-4 4H5a4 4 0 0 1-4-4v-8zm-27 6a2 2 0 1 0-2 2 2.006 2.006 0 0 0 2-2zM59 6v30H1V6a4 4 0 0 1 4-4h50a4 4 0 0 1 4 4zM18.039 2H5a4 4 0 0 0-4 4v11.686A31.1 31.1 0 0 1 18.039 2zM2.092 36A37.508 37.508 0 0 1 30.911 2H18.039A31.1 31.1 0 0 0 1 17.686V36zM30 27a8 8 0 1 1 8-8 8 8 0 0 1-8 8zm-4-5a1 1 0 1 0 1-1 1 1 0 0 0-1 1zM30 7a17.982 17.982 0 0 1 16.95 12 17.971 17.971 0 0 1-33.9 0A17.982 17.982 0 0 1 30 7zm8 12a8 8 0 1 0-8 8 8 8 0 0 0 8-8z" fill="url(#goldGradient)"/>
+
+  <!-- All circles -->
+  <circle cx="6" cy="7" r="1" fill="url(#goldGradient)"/>
+  <circle cx="6" cy="11" r="1" fill="url(#goldGradient)"/>
+  <circle cx="6" cy="15" r="1" fill="url(#goldGradient)"/>
+  <circle cx="6" cy="19" r="1" fill="url(#goldGradient)"/>
+  <circle cx="6" cy="23" r="1" fill="url(#goldGradient)"/>
+  <circle cx="6" cy="27" r="1" fill="url(#goldGradient)"/>
+  <circle cx="6" cy="31" r="1" fill="url(#goldGradient)"/>
+  <circle cx="9" cy="29" r="1" fill="url(#goldGradient)"/>
+  <circle cx="9" cy="25" r="1" fill="url(#goldGradient)"/>
+  <circle cx="9" cy="21" r="1" fill="url(#goldGradient)"/>
+  <circle cx="9" cy="17" r="1" fill="url(#goldGradient)"/>
+  <circle cx="9" cy="13" r="1" fill="url(#goldGradient)"/>
+  <circle cx="9" cy="9" r="1" fill="url(#goldGradient)"/>
+  <circle cx="12" cy="7" r="1" fill="url(#goldGradient)"/>
+  <circle cx="12" cy="11" r="1" fill="url(#goldGradient)"/>
+  <circle cx="12" cy="27" r="1" fill="url(#goldGradient)"/>
+  <circle cx="12" cy="31" r="1" fill="url(#goldGradient)"/>
+  <circle cx="15" cy="29" r="1" fill="url(#goldGradient)"/>
+  <circle cx="15" cy="9" r="1" fill="url(#goldGradient)"/>
+  <circle cx="18" cy="7" r="1" fill="url(#goldGradient)"/>
+  <circle cx="18" cy="31" r="1" fill="url(#goldGradient)"/>
+  <circle cx="42" cy="7" r="1" fill="url(#goldGradient)"/>
+  <circle cx="42" cy="31" r="1" fill="url(#goldGradient)"/>
+  <circle cx="45" cy="29" r="1" fill="url(#goldGradient)"/>
+  <circle cx="45" cy="9" r="1" fill="url(#goldGradient)"/>
+  <circle cx="48" cy="7" r="1" fill="url(#goldGradient)"/>
+  <circle cx="48" cy="11" r="1" fill="url(#goldGradient)"/>
+  <circle cx="48" cy="27" r="1" fill="url(#goldGradient)"/>
+  <circle cx="48" cy="31" r="1" fill="url(#goldGradient)"/>
+  <circle cx="54" cy="7" r="1" fill="url(#goldGradient)"/>
+  <circle cx="54" cy="11" r="1" fill="url(#goldGradient)"/>
+  <circle cx="54" cy="15" r="1" fill="url(#goldGradient)"/>
+  <circle cx="54" cy="19" r="1" fill="url(#goldGradient)"/>
+  <circle cx="54" cy="23" r="1" fill="url(#goldGradient)"/>
+  <circle cx="54" cy="27" r="1" fill="url(#goldGradient)"/>
+  <circle cx="54" cy="31" r="1" fill="url(#goldGradient)"/>
+  <circle cx="51" cy="29" r="1" fill="url(#goldGradient)"/>
+  <circle cx="51" cy="25" r="1" fill="url(#goldGradient)"/>
+  <circle cx="51" cy="21" r="1" fill="url(#goldGradient)"/>
+  <circle cx="51" cy="17" r="1" fill="url(#goldGradient)"/>
+  <circle cx="51" cy="13" r="1" fill="url(#goldGradient)"/>
+  <circle cx="51" cy="9" r="1" fill="url(#goldGradient)"/>
+  <circle cx="27" cy="22" r="1" fill="url(#goldGradient)"/>
+  
+  <!-- Main outline paths -->
+  <path d="M55 1H5a5.006 5.006 0 0 0-5 5v38a5.006 5.006 0 0 0 5 5h16.948a8.437 8.437 0 0 1-2.37 4H17a1 1 0 0 0-.949.684l-1 3a1 1 0 0 0 .242 1.023l1 1A1 1 0 0 0 17 59h26a1 1 0 0 0 .707-.293l1-1a1 1 0 0 0 .242-1.023l-1-3A1 1 0 0 0 43 53h-2.578a8.478 8.478 0 0 1-2.373-4H55a5.006 5.006 0 0 0 5-5V6a5.006 5.006 0 0 0-5-5zM5 3h50a3 3 0 0 1 3 3v29H2V6a3 3 0 0 1 3-3zm37.856 53.729-.27.271H17.414l-.27-.271.577-1.729h24.558zM37.813 53H22.187a8.652 8.652 0 0 0 1.795-4h12.036a8.652 8.652 0 0 0 1.795 4zM55 47H5a3 3 0 0 1-3-3v-7h56v7a3 3 0 0 1-3 3z" fill="url(#goldGradient)" stroke="url(#strokeGradient)" stroke-width="0.25"/>
+  
+  <path d="M30 39a3 3 0 1 0 3 3 3 3 0 0 0-3-3zm0 4a1 1 0 1 1 1-1 1 1 0 0 1-1 1z M30 32a19.025 19.025 0 0 0 17.9-12.666 1 1 0 0 0 0-.668 18.976 18.976 0 0 0-35.792 0 1 1 0 0 0 0 .668A19.025 19.025 0 0 0 30 32zm0-24a17.02 17.02 0 0 1 15.889 11 16.975 16.975 0 0 1-31.778 0A17.02 17.02 0 0 1 30 8z M30 28a9 9 0 1 0-9-9 9.01 9.01 0 0 0 9 9zm0-16a7 7 0 1 1-7 7 7.008 7.008 0 0 1 7-7z M26 20a1 1 0 0 0 1-1 3 3 0 0 1 3-3 1 1 0 0 0 0-2 5.006 5.006 0 0 0-5 5 1 1 0 0 0 1 1z" fill="url(#goldGradient)" stroke="url(#strokeGradient)" stroke-width="0.25"/>
+</svg>
