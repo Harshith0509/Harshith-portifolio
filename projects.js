@@ -39,14 +39,14 @@ const projects = [
       title: "Military Object Detection using YOLOv11",
       category: "Computer Vision",
       link: "https://github.com/Harshith0509/Military-object-recognition-yolov11-/",
-      imgSrc: "https://github.com/Harshith0509/harshith-portfolio/blob/main/public/images/Military_Object_Image.jpeg",
+      imgSrc: "https://github.com/Harshith0509/harshith-portfolio/blob/main/public/images/Military_Object_Image.jpeg?raw=true",
       imgAlt: "Military Object Detection using YOLOv11"
     }, 
     {
       title: "Distributed Transaction Processing using PBFT",
       category: "Distributed Systems",
       link: "https://github.com/Harshith0509/Distributed-Transaction-processing-using-PBFT",
-      imgSrc: "https://github.com/Harshith0509/harshith-portfolio/blob/main/public/images/pbft.png",
+      imgSrc: "https://github.com/Harshith0509/harshith-portfolio/blob/main/public/images/pbft.png?raw=true",
       imgAlt: "Distributed Transaction Processing using PBFT"
     },
     
