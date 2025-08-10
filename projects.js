@@ -35,6 +35,21 @@ const projects = [
       imgSrc: "https://github.com/Harshith0509/Images/blob/main/house prices.jpg?raw=true",
       imgAlt: "House Prices Prediction"
     },   
+    {
+      title: "Military Object Detection using YOLOv11",
+      category: "Computer Vision",
+      link: "https://github.com/Harshith0509/Military-object-recognition-yolov11-/",
+      imgSrc: "https://github.com/Harshith0509/harshith-portfolio/blob/main/public/images/Military_Object_Image.jpeg",
+      imgAlt: "Military Object Detection using YOLOv11"
+    }, 
+    {
+      title: "Distributed Transaction Processing using PBFT",
+      category: "Distributed Systems",
+      link: "https://github.com/Harshith0509/Distributed-Transaction-processing-using-PBFT",
+      imgSrc: "https://github.com/Harshith0509/harshith-portfolio/blob/main/public/images/pbft.png",
+      imgAlt: "Distributed Transaction Processing using PBFT"
+    },
+    
   ];
 
   export default projects;
